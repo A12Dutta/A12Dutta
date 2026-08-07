@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Anannya 👋
 
-<!--
-**A12Dutta/A12Dutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | SQL · Excel · Power BI · Python
 
-Here are some ideas to get you started:
+Currently learning and building practical projects in data analytics, focusing on SQL, Excel, Power BI, Python, and business problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects:
+- Banking Fraud Analysis: https://github.com/A12Dutta/Banking-Fraud-Analysis
+- Retail Sales Analysis: https://github.com/A12Dutta/Retail-Sales-Analysis
+
+🔗 LinkedIn: https://www.linkedin.com/in/anannya-dutta-0063a8293/
+
+## Currently Working On
+- Strengthening SQL and Excel skills
+- Building real-world analytics projects
+- Preparing for Data Analyst internships and entry-level roles
