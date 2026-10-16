@@ -5,6 +5,7 @@ Aspiring Data Analyst | SQL · Excel · Power BI · Python
 Currently learning and building practical projects in data analytics, focusing on SQL, Excel, Power BI, Python, and business problem-solving.
 
 📊 Projects:
+- E-Commerce Revenue Intelligence: https://github.com/A12Dutta/ecommerce-revenue-intelligence
 - Banking Fraud Analysis: https://github.com/A12Dutta/Banking-Fraud-Analysis
 - Retail Sales Analysis: https://github.com/A12Dutta/Retail-Sales-Analysis
 
